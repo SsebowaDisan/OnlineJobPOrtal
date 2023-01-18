@@ -56,7 +56,7 @@ Hello Bro, I am Sujal, writing this. If you have questions: call on +91 95117767
 
 > tbl_countries
 > tbl_alerts
-> tbl_acedamic_qualifications
+> tbl_acedamic_qualifications \n
 > tbl_categories
 > tbl_experience
 > tbl_jobs
