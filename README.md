@@ -54,20 +54,20 @@ Hello Bro, I am Sujal, writing this. If you have questions: call on +91 95117767
 
 ### below job_portal you will find these fields
 
-tbl_countries
-tbl_alerts
-tbl_acedamic_qualifications
-tbl_categories
-tbl_experience
-tbl_jobs
-tbl_job_applications
-tbl_language
-tbl_other_attachments
-tbl_professional_qualifications
-tbl_referers
-tbl_tokens
-tbl_trainings
-tbl_users
+> tbl_countries
+> tbl_alerts
+> tbl_acedamic_qualifications
+> tbl_categories
+> tbl_experience
+> tbl_jobs
+> tbl_job_applications
+> tbl_language
+> tbl_other_attachments
+> tbl_professional_qualifications
+> tbl_referers
+> tbl_tokens
+> tbl_trainings
+> tbl_users
 
 ## These are tables and have data of he name they are given.
 
